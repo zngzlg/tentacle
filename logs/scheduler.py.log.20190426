@@ -1,0 +1,9 @@
+2019-04-26 16:06:25,659 <ERROR> Thread-2 can not find ./scripts/nodemanager.py
+2019-04-26 16:06:26,662 <INFO> task datanode timeout killed
+2019-04-26 16:06:26,689 <INFO> task datanode returned ['', '']
+2019-04-26 16:06:42,600 <ERROR> Thread-2 can not find ./scripts/nodemanager.py
+2019-04-26 16:06:43,602 <INFO> task datanode timeout killed
+2019-04-26 16:06:43,630 <INFO> task datanode returned ['', '']
+2019-04-26 16:07:29,100 <ERROR> Thread-2 can not find ./scripts/nodemanager.py
+2019-04-26 16:07:30,102 <INFO> task datanode timeout killed
+2019-04-26 16:07:30,130 <INFO> task datanode returned ['', '']
